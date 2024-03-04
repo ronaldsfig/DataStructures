@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1709591948 source:c:\users\ronal\onedrive\documentos\github\datastructures\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1709592018 c:\users\ronal\onedrive\documentos\github\datastructures\stack\stack.h
+
+1709591971 source:c:\users\ronal\onedrive\documentos\github\datastructures\stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
